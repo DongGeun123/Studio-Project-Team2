@@ -1,4 +1,5 @@
 # NLP Enabled Edge Device (NEED)
+Natural Language Processing (NLP) Enabled Edge Device (NEED) - IITP Fall/Winter 2022-2023 Project
 
 ## Key Dates:
 - Dec 02 - Project Kick Off Meeting
