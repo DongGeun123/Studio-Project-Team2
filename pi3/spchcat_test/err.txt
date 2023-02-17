@@ -1,0 +1,4 @@
+TensorFlow: v2.3.0-14-g4bdd3955115
+ Coqui STT: v1.1.0-0-gf3605e23
+munmap_chunk(): invalid pointer
+Aborted
